@@ -1,5 +1,5 @@
 # court-reservation
-This repo contains a Jetpack compose application for court reservation, sport group finding and court reviewing.
+A Jetpack compose application for court reservation, sport group finding and court reviewing.
 
 ![Screenshot](./assets-readme/onboarding_1.png)
 

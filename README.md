@@ -1,2 +1,15 @@
 # court-reservation
 This repo contains a Jetpack compose application for court reservation, sport group finding and court reviewing.
+
+![Screenshot](./assets-readme/onboarding_1.png)
+
+Add a reservation
+![Screenshot](./assets-readme/onboarding_2.png)
+Check your reservations
+![Screenshot](./assets-readme/onboarding_3.png)
+Rate a court
+![Screenshot](./assets-readme/onboarding_4.png)
+Join another team
+![Screenshot](./assets-readme/onboarding_5.png)
+CHeck the reviews of a field
+![Screenshot](./assets-readme/onboarding_6.png)
